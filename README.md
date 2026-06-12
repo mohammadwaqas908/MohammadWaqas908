@@ -137,10 +137,10 @@ Built core backend systems from the ground up using Laravel & Livewire. Tuned My
 | **DevOps** | AWS, Git, GitHub, CI/CD |
 | **Practices** | Agile/Scrum, Testing & Debugging |
 
+-->
 </td>
 </tr>
 </table>
--->
 ---
 
 <!-- CONTACT -->
