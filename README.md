@@ -124,7 +124,7 @@ Built end-to-end web apps with Laravel, Livewire, React & Vue.js. Designed secur
 Built core backend systems from the ground up using Laravel & Livewire. Tuned MySQL database structures, implemented new features based on client requirements, and strengthened security through RBAC & validation.
 
 ---
-
+<!--
 ### 📊 Core Competencies
 
 | Area | Skills |
@@ -140,7 +140,7 @@ Built core backend systems from the ground up using Laravel & Livewire. Tuned My
 </td>
 </tr>
 </table>
-
+-->
 ---
 
 <!-- CONTACT -->
