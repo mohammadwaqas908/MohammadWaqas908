@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="./banner.svg?v=2.0.0" alt="Mohammad Waqas – Software Engineer" width="100%"/>
+  <img src="./bannernew.svg?v=2.0.0" alt="Mohammad Waqas – Software Engineer" width="100%"/>
 </p>
 
 <br/>
