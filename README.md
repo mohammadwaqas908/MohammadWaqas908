@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; React</h3>
 
 <p align="center">
-  <a href="mailto:m.waqas7375@gmail.com"><img src="https://img.shields.io/badge/Email-m.waqas7375%40gmail.com-EA4335?v=2.0.0&style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:m.waqas7375@gmail.com"><img src="https://img.shields.io/badge/Email-m.waqas7375%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/mohammad-waqas-laravel-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/📍 Lahore,_Pakistan-222?style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/Experience-3%2B_Years-7C3AED?style=flat-square"/>
@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="./banner.svg" alt="Mohammad Waqas – Software Engineer" width="100%"/>
+  <img src="./banner.svg?v=2.0.0" alt="Mohammad Waqas – Software Engineer" width="100%"/>
 </p>
 
 <br/>
